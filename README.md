@@ -2,7 +2,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-![](https://img.shields.io/github/last-commit/yourusername/Awesome-Autoregressive-Video-Diffusion-Transformers?color=green)
+![](https://img.shields.io/github/last-commit/awesome-autoregressive-video-diffusion-transformers?color=green)
 
 A curated list of **Autoregressive Video Diffusion Transformers** for video generation tasks (T2V, I2V, etc.) from top-tier computer vision and deep learning conferences and journals: **CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR**.
 
