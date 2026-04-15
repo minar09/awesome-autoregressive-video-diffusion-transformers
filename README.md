@@ -12,11 +12,25 @@ A curated list of **Autoregressive Video Diffusion Transformers** for video gene
 
 ## 📋 Table of Contents
 
+- [2026 Papers](#2026-papers)
 - [2025 Papers](#2025-papers)
 - [2024 Papers](#2024-papers)
 - [2023 Papers](#2023-papers)
 - [2022 Papers](#2022-papers)
 - [Related Resources](#related-resources)
+
+---
+
+## 2026 Papers
+
+| # | Paper Title | Authors | Institute | Publisher | Paper | Code/Project | Tasks | Output |
+|---|-------------|---------|-----------|-----------|-------|--------------|-------|--------|
+| 45 | **Causal Forcing: Causal Autoregressive Video Diffusion** | Anonymous | Tsinghua | arXiv 2026 | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.08102) | [![Star](https://img.shields.io/github/stars/thu-ml/Causal-Forcing.svg?style=social&label=Star)](https://github.com/thu-ml/Causal-Forcing) | T2V, I2V | Causal, Long |
+| 46 | **Helios: Real Real-Time Long Video Generation Model** | Anonymous | PKU, YuanGroup | arXiv 2026 | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.04379) | [![Star](https://img.shields.io/github/stars/PKU-YuanGroup/Helios.svg?style=social&label=Star)](https://github.com/PKU-YuanGroup/Helios) [![Website](https://img.shields.io/badge/Website-9cf)](https://pku-yuangroup.github.io/Helios-Page/) | T2V | Real-time, Long |
+| 47 | **Stable Video Infinity: Infinite-Length Video Generation with Error Recycling** | Anonymous | EPFL | **ICLR 2026 Oral** | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.03624) | [![Star](https://img.shields.io/github/stars/vita-epfl/Stable-Video-Infinity.svg?style=social&label=Star)](https://github.com/vita-epfl/Stable-Video-Infinity) | T2V | Infinite, Error-recycling |
+| 48 | **LAViG-FLOW: Latent Autoregressive Video Generation with Flow-based Decoding** | Anonymous | KAUST | arXiv 2026 | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.03382) | [![Star](https://img.shields.io/github/stars/DeepWave-KAUST/LAViG-FLOW-pub.svg?style=social&label=Star)](https://github.com/DeepWave-KAUST/LAViG-FLOW-pub) | T2V | Flow-based, Long |
+| 49 | **Infinity-RoPE: Action-Controllable Infinite Video Generation Emerges From Autoregressive Self-Rollout** | Yesiltepe et al. | EPFL | **CVPR 2026** | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.01483) | [![Star](https://img.shields.io/github/stars/yesiltepe-hidir/infinity-rope.svg?style=social&label=Star)](https://github.com/yesiltepe-hidir/infinity-rope) | T2V | Action-controllable, Infinite |
+| 50 | **Myriad: Flow Poke Transformer for Interactive Video Generation** | Anonymous | CompVis | **CVPR 2026** | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.08582) | [![Star](https://img.shields.io/github/stars/CompVis/flow-poke-transformer.svg?style=social&label=Star)](https://github.com/CompVis/flow-poke-transformer) | Interactive, I2V | Interactive, Flow-guided |
 
 ---
 
