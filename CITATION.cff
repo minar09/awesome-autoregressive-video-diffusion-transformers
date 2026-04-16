@@ -1,0 +1,33 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Awesome Autoregressive Video Diffusion Transformers
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Matiur Rahman
+    family-names: Minar
+    email: minar09.bd@gmail.com
+    affiliation: Sogang University
+    orcid: 'https://orcid.org/0000-0002-3128-2915'
+identifiers:
+  - type: url
+    value: >-
+      https://github.com/minar09/awesome-autoregressive-video-diffusion-transformers
+    description: Github list
+repository-code: >-
+  https://github.com/minar09/awesome-autoregressive-video-diffusion-transformers
+url: >-
+  https://github.com/minar09/awesome-autoregressive-video-diffusion-transformers
+keywords:
+  - video diffusion transformers
+  - video generation
+  - autoregressive
+  - diffusion transformers
+license: MIT
+commit: '0.1'
+version: 0.1.0
+date-released: '2026-04-15'
