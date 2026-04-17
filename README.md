@@ -9,6 +9,8 @@ A curated list of **Autoregressive Video Diffusion Transformers** for video gene
 &gt; **Scope**: This list focuses exclusively on models that combine **autoregressive generation** with **diffusion-based denoising** in a **transformer architecture** for video generation. Pure diffusion models (e.g., Sora, CogVideoX) or pure autoregressive models without diffusion are excluded unless they explicitly bridge both paradigms.
 
 ---
+![Image](ar-dit.jpg)
+---
 
 ## 📋 Table of Contents
 
