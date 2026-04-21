@@ -114,8 +114,9 @@ A curated list of **Autoregressive Video Diffusion Transformers** for video gene
 
 ### Surveys & Position Papers
 - **Survey of Video Diffusion Models: Foundations, Implementations, and Applications** (TMLR 2025) [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.16081)
-- **A Survey on Vision Autoregressive Model** (arXiv 2024) [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.08666)
 - **Autoregressive Models in Vision: A Survey** (TMLR 2025) [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.05902)
+- **A Survey on Vision Autoregressive Model** (arXiv 2024) [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.08666)
+- **A Survey on Video Diffusion Models** (ACM CS 2024) [paper](https://dl.acm.org/doi/pdf/10.1145/3696415)
 
 ### Related Awesome Lists
 - [Awesome Video Diffusion Models](https://github.com/ChenHsing/Awesome-Video-Diffusion-Models)
